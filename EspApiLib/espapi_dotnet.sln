@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
@@ -9,9 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "espapi_dotnet", "espapi_dotnet\espapi_dotnet.csproj", "{F41F8BB9-C355-40DB-ABAA-3F7B2134D0B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "espapi_dotnet", "espapi_dotnet\espapi_dotnet.csproj", "{F41F8BB9-C355-40DB-ABAA-3F7B2134D0B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_espapi_dotnet", "test_espapi_dotnet\test_espapi_dotnet.csproj", "{22217CB7-5EC1-4B1B-8F65-BCD7BDA0FF4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test_espapi_dotnet", "test_espapi_dotnet\test_espapi_dotnet.csproj", "{22217CB7-5EC1-4B1B-8F65-BCD7BDA0FF4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
